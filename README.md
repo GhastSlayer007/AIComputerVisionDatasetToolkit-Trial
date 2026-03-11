@@ -1,5 +1,5 @@
 # AIComputerVisionDatasetToolkit-Trial
-A repository to hold a trial version of the AI Computer Vision Dataset Toolkit. The full version is purchasable here: https://nickdelago.gumroad.com/l/AIComputerVisionDatasetToolkit
+A repository to hold a trial version of the AI Computer Vision Dataset Toolkit. The full version is available for purchase at the link below.
 
 # Tools for preparing computer vision datasets for training.
 
