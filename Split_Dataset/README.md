@@ -136,18 +136,9 @@ This can be useful for:
 
 ---
 
-# License
-
-This script is part of the **AI Computer Vision Dataset Toolkit**.
-
-You may use it for personal and commercial projects.
-
-Redistribution or resale of the script alone is not permitted without permission.
-
----
-
 # Author
 
 Created for the **AI Computer Vision Dataset Toolkit**.
+
 
 Designed to help simplify dataset preparation for machine learning and computer vision workflows.
