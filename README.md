@@ -63,7 +63,7 @@ Clone the repository:
 
 ```
 git clone https://github.com/YOUR_USERNAME/AIComputerVisionDatasetToolkit-Trial
-cd AIComputerVisionDatasetToolkit-Trial
+cd AIComputerVisionDatasetToolkit-Trial/Split_Dataset
 ```
 
 Ensure you have Python installed:
